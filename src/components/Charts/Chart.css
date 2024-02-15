@@ -1,0 +1,14 @@
+.chart {
+    padding: 0.8rem;
+    border-radius: 12px;
+    background-color: #f8dfff;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    height: 14rem;
+  }
+  @media (max-width: 430px){
+    .chart {
+      height: 9rem;
+    }
+  }
